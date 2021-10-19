@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Egészséges táplálkozás</title>
 </head>
 <body style="width: 50%; text-align: justify;">
     <img src="https://www.superfitt.hu/wp-content/uploads/2021/02/egeszseges-taplalkozas.jpg" alt="kaja">
